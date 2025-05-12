@@ -1,0 +1,4 @@
+.env
+token.json
+plans_log.json
+__pycache__/
